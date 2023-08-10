@@ -45,6 +45,8 @@ Text that is not a quote
 Typed >Text that is a quote  
 You only need to escape the > character if it is the first character in the line.
 
+You can call out code or a command within a sentence with single backticks.
+
 Use `git status` to list all new or modified files that haven't yet been committed.
 
 Some basic Git commands are:
