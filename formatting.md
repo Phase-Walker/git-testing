@@ -43,7 +43,7 @@ Text that is not a quote
 >Text that is a quote  
 
 Typed >Text that is a quote
-The > symbol must be at the beginning of the line. ###hello 
+There is no need to escape the > symbol as long as it isn't the first character in the line.
 
 Use `git status` to list all new or modified files that haven't yet been committed.
 
