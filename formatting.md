@@ -2,13 +2,13 @@
 ## A second-level heading
 ### A third-level heading
 
-/**Bold** or __Bold__/ --> **Bold** or __Bold__
-/*italic* or _italic_/ --> *italic* or _italic_
-/~~Strikethrough~~/ --> ~~Strikethrough~~
-/**Bold and _nested italic_**/ --> **Bold and _nested italic_**
-/***All bold and italic***/ --> ***All bold and italic***
-/<sub>Subscript</sub>/ --> <sub>Subscript</sub>
-/<sup>Superscript</sup>/ --> <sup>Superscript</sup>
+\*\*Bold** or \_\_Bold__ --> **Bold** or __Bold__
+/*italic* or _italic_ --> *italic* or _italic_
+/~~Strikethrough~~ --> ~~Strikethrough~~
+/**Bold and _nested italic_** --> **Bold and _nested italic_**
+/***All bold and italic*** --> ***All bold and italic***
+/<sub>Subscript</sub> --> <sub>Subscript</sub>
+/<sup>Superscript</sup> --> <sup>Superscript</sup>
 
 Text that is not a quote
 
