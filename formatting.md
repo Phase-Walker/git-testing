@@ -9,7 +9,7 @@
 /***All bold and italic*** --> ***All bold and italic***  
 /<sub>Subscript</sub> --> <sub>Subscript</sub>  
 /<sup>Superscript</sup> --> <sup>Superscript</sup>  
-
+  
 Text that is not a quote
 
 >Text that is a quote
