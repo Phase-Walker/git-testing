@@ -16,7 +16,6 @@ a block of text
 will turn it into an underlined heading.
 -
 
-Above: Post Heading triple dashes (---);
 Bellow: 1 Dash (-) 2 Dashes (--) 3 Dashes (---)
 
 -
