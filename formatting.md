@@ -26,6 +26,9 @@ ___
 To escape a character type (\\) before the Markdown characher(s)  
 For instance: Typing '\\-' will display '\-'
 
+For a linebreak type two spaces at the end of your line,  
+and press enter.
+
 \*\*Bold** or \_\_Bold__ --> **Bold** or __Bold__  
 \*italic* or _italic_ --> *italic* or _italic_  
 \~~Strikethrough~~ --> ~~Strikethrough~~  
