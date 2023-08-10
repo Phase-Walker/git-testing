@@ -7,6 +7,7 @@
 #### A fourth-level heading
 I think you get the pattern.
 ##### A fifth-level heading
+Next one changes color.
 ###### A sixth-level heading.
 Last Heading Level
 
