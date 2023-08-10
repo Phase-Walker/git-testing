@@ -45,5 +45,5 @@ Text that is not a quote
 Typed >Text that is a quote  
 You only need to escape the > character if it is the first character in the line.
 
-For more advanced functionality refer to:  
+For more advanced functionalities refer to:  
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
