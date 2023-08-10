@@ -5,7 +5,7 @@
 ### A third-level heading
 \### A third-level heading
 #### A fourth-level heading
-I think you get the pattern.
+Don't forget the space!
 ##### A fifth-level heading
 Next one changes color.
 ###### A sixth-level heading.
@@ -29,7 +29,7 @@ For instance: Typing '\\-' will display '\-'
 For a linebreak type two spaces at the end of your line,  
 and press enter.
 
-###Text Styling:
+### Text Styling:
 \*\*Bold** or \_\_Bold__ --> **Bold** or __Bold__  
 \*italic* or _italic_ --> *italic* or _italic_  
 \~~Strikethrough~~ --> ~~Strikethrough~~  
