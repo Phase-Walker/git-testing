@@ -43,6 +43,7 @@ Text that is not a quote
 >Text that is a quote  
 
 Typed >Text that is a quote
+The > symbol must be at the beginning of the line. ###hello 
 
 Use `git status` to list all new or modified files that haven't yet been committed.
 
