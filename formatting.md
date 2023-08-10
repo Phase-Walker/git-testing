@@ -1,6 +1,9 @@
 # A first-level heading
+\# A first-level heading
 ## A second-level heading
+\## A second-level heading
 ### A third-level heading
+\### A third-level heading
 
 \*\*Bold** or \_\_Bold__ --> **Bold** or __Bold__  
 \*italic* or _italic_ --> *italic* or _italic_  
