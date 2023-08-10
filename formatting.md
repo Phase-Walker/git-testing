@@ -9,7 +9,8 @@ I think you get the pattern.
 ##### A fifth-level heading
 Next one changes color.
 ###### A sixth-level heading.
-Last Heading Level  
+Last Heading Level
+
 ---
 
 1 Dash (-) 2 Dashes (--) 3 Dashes (---)
