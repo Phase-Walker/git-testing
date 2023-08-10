@@ -13,7 +13,7 @@ Last Heading Level
 
 Putting a dash under
 a block of text
-will turn it bold
+will turn it into an underlined heading.
 -
 
 Above: Post Heading triple dashes (---);
