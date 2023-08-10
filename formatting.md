@@ -6,6 +6,8 @@
 \### A third-level heading
 #### A fourth-level heading
 I think you get the pattern.
+##### A fifth-level heading
+#### A sixth-level heading
 
 \*\*Bold** or \_\_Bold__ --> **Bold** or __Bold__  
 \*italic* or _italic_ --> *italic* or _italic_  
