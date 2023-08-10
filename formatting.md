@@ -21,8 +21,6 @@ Bellow: 1 Dash (-) 2 Dashes (--) 3 Dashes (---)
 -
 --
 ---
-_
-__
 ___
 
 \*\*Bold** or \_\_Bold__ --> **Bold** or __Bold__  
