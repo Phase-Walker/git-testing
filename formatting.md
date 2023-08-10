@@ -11,6 +11,11 @@ Next one changes color.
 ###### A sixth-level heading.
 Last Heading Level
 
+Putting a dash under
+a block of text
+will turn it bold
+-
+
 Above: Post Heading triple dashes (---);
 Bellow: 1 Dash (-) 2 Dashes (--) 3 Dashes (---)
 
