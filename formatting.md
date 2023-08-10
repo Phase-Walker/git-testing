@@ -24,7 +24,7 @@ Bellow: 1 Dash (-) 2 Dashes (--) 3 Dashes (---) 3 Underscores (___)
 ___
 
 To escape a character type (\\) before the Markdown characher(s)  
-For instance: \\- = \-
+For instance: Typing \\- will display in \-
 
 \*\*Bold** or \_\_Bold__ --> **Bold** or __Bold__  
 \*italic* or _italic_ --> *italic* or _italic_  
