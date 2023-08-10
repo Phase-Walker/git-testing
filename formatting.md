@@ -45,37 +45,5 @@ Text that is not a quote
 Typed >Text that is a quote  
 You only need to escape the > character if it is the first character in the line.
 
-You can call out code or a command within a sentence with single backticks.
-
-Use `git status` to list all new or modified files that haven't yet been committed.
-
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
-
-To display triple backticks in a fenced code block, wrap them inside quadruple backticks.
-````
-```
-Look! You can see my backticks.
-```
-````
-
-You can add an optional language identifier to enable syntax highlighting in your fenced code block.
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
-
-In issues, pull requests, and discussions, you can call out colors within a sentence by using backticks.
-
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
-
-
-Color	Syntax	        Example	
-HEX	`#RRGGBB`	`#0969DA`	
-RGB	`rgb(R,G,B)`	`rgb(9, 105, 218)`	
-HSL	`hsl(H,S,L)`	`hsl(212, 92%, 45%)`
+For more advanced functionality refer to:  
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
