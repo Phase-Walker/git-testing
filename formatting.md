@@ -7,7 +7,7 @@
 #### A fourth-level heading
 Don't forget the space!
 ##### A fifth-level heading
-Next one changes color.
+Next one changes to grey.
 ###### A sixth-level heading.
 Last Heading Level
 
