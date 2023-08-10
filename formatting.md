@@ -11,7 +11,7 @@ Next one changes color.
 ###### A sixth-level heading.
 Last Heading Level
 
--
+--
 \*\*Bold** or \_\_Bold__ --> **Bold** or __Bold__  
 \*italic* or _italic_ --> *italic* or _italic_  
 \~~Strikethrough~~ --> ~~Strikethrough~~  
