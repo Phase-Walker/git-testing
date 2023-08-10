@@ -16,7 +16,7 @@ a block of text
 will turn it into an underlined heading.
 -
 
-Bellow: 1 Dash (-) 2 Dashes (--) 3 Dashes (---) 3 Underscores.
+Bellow: 1 Dash (-) 2 Dashes (--) 3 Dashes (---) 3 Underscores
 
 -
 --
