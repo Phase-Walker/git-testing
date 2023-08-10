@@ -21,6 +21,8 @@ Bellow: 1 Dash (-) 2 Dashes (--) 3 Dashes (---) 3 Underscores (___)
 -
 --
 ---
+
+
 ___
 
 \*\*Bold** or \_\_Bold__ --> **Bold** or __Bold__  
