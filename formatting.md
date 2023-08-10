@@ -16,12 +16,12 @@ a block of text
 will turn it into an underlined heading.
 -
 
-Bellow: 1 Dash (-) 2 Dashes (--) 3 Dashes (---)
+Bellow: 1 Dash (-) 2 Dashes (--) 3 Dashes (---) 3 Underscores.
 
 -
 --
 ---
-__
+___
 
 \*\*Bold** or \_\_Bold__ --> **Bold** or __Bold__  
 \*italic* or _italic_ --> *italic* or _italic_  
