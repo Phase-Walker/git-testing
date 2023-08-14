@@ -78,7 +78,7 @@ Then, wrap the link for the image in parentheses ().
 You can call out code or a command within a sentence with single backticks. The text within the backticks will not be formatted.  
   
 So the line:  
-*Use* \`git status\` *to list all new or modified files that haven't yet been committed.*  
+*Use* `git status` *to list all new or modified files that haven't yet been committed.*  
 becomes:  
 *Use* `git status` *to list all new or modified files that haven't yet been committed.*
 
