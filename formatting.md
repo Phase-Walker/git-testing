@@ -50,8 +50,8 @@ You only need to escape the > character if it is the first character in the line
 You can mention a person or team on GitHub by typing @ plus their username or team name.  
 People will also receive a notification if you edit a comment to mention their username or team name.
 
-Note: A person will only be notified about a mention if the person has read access to the repository and,  
-if the repository is owned by an organization, the person is a member of the organization.
+Note: A person will only be notified about a mention if the person has read access to the repository  
+and if the repository is owned by an organization, the person is a member of the organization.
 
 ### Links
 
