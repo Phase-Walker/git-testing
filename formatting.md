@@ -73,6 +73,15 @@ Then, wrap the link for the image in parentheses ().
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
+### Exercepting
+
+You can call out code or a command within a sentence with single backticks. The text within the backticks will not be formatted.
+
+Use \`git status\` to list all new or modified files that haven't yet been committed.  
+becomes  
+Use `git status` to list all new or modified files that haven't yet been committed.
+
+
 ### Lists
 
 You can make an unordered list by preceding one or more lines of text with \-, \*, or \+.
