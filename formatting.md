@@ -51,6 +51,8 @@ You can create an inline link by wrapping link text in brackets [ ], and then wr
 When you have text selected, you can paste a URL from your clipboard to automatically create a link from the selection.
 
 This site was built using \[GitHub Pages]\(https://pages.github.com/).
+-->
+This site was built using [GitHub Pages](https://pages.github.com/).
 
 Images: 
 
@@ -59,6 +61,8 @@ Alt text is a short text equivalent of the information in the image.
 Then, wrap the link for the image in parentheses ().
 
 \!\[Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]\(https://myoctocat.com/assets/images/base-octocat.svg)
+-->
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 For more advanced functionalities refer to:  
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
