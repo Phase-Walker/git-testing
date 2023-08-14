@@ -60,6 +60,16 @@ When you have text selected, you can paste a URL from your clipboard to automati
 
 This site was built using \[GitHub Pages]\(https://pages.github.com/). --> This site was built using [GitHub Pages](https://pages.github.com/).
 
+##### Relative links:
+
+You can define relative links and image paths in your rendered files to help readers navigate to other files in your repository.
+
+A relative link is a link that is relative to the current file. For example, if you have a README file in root of your repository, and you have another file in docs/CONTRIBUTING.md, the relative link to CONTRIBUTING.md in your README might look like this:
+
+\[Contribution guidelines for this project]\(docs/CONTRIBUTING.md)|
+
+For more information, see "Relative Links."
+
 ### Images: 
 
 You can display an image by adding ! and wrapping the alt text in [ ]. 
