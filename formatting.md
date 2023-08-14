@@ -47,8 +47,7 @@ You only need to escape the > character if it is the first character in the line
 
 ### Notifications
 
-You can mention a person or team on GitHub by typing @ plus their username or team name.
-This will trigger a notification and bring their attention to the conversation.
+You can mention a person or team on GitHub by typing @ plus their username or team name.  
 People will also receive a notification if you edit a comment to mention their username or team name.
 
 Note: A person will only be notified about a mention if the person has read access to the repository and,  
