@@ -33,29 +33,6 @@ For instance: Typing '\\-' will display '\-'
 For a linebreak type two spaces at the end of your line,  
 and press enter.
 
-### Lists
-
-
-You can make an unordered list by preceding one or more lines of text with \-, \*, or \+.
-To order your list, precede each line with a number.
-
-You can create a nested list by indenting one or more list items below another item.
-Nested Lists: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#nested-lists
-
-To create a task list, preface list items with a hyphen and space followed by \[ ]. To mark a task as complete, use \[x].
-
-- \[x] #739
-- \[ ] https://github.com/octo-org/octo-repo/issues/740
-- \[ ] Add delight to the experience when all tasks are complete :tada:
-
-If a task list item description begins with a parenthesis, you'll need to escape it (the description) with \
-
-Demo:
-
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
-
 ### Text Styling
 \*\*Bold** or \_\_Bold__ --> **Bold** or __Bold__  
 \*italic* or _italic_ --> *italic* or _italic_  
@@ -108,6 +85,28 @@ Then, wrap the link for the image in parentheses ().
 -->  
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
+### Lists
+
+You can make an unordered list by preceding one or more lines of text with \-, \*, or \+.
+To order your list, precede each line with a number.
+
+You can create a nested list by indenting one or more list items below another item.
+Nested Lists: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#nested-lists
+
+To create a task list, preface list items with a hyphen and space followed by \[ ]. To mark a task as complete, use \[x].
+
+- \[x] #739
+- \[ ] https://github.com/octo-org/octo-repo/issues/740
+- \[ ] Add delight to the experience when all tasks are complete :tada:
+
+If a task list item description begins with a parenthesis, you'll need to escape it (the description) with \
+
+Demo:
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
 
 For more advanced functionalities refer to:  
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
