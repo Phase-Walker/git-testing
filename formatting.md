@@ -88,15 +88,6 @@ becomes:
 
 To format code or text into its own distinct block, use triple backticks.
 
-Some basic Git commands are:
-```  
-git status  
-git add  
-git commit  
-```  
-
-aka
-
 Some basic Git commands are:  
 \```  
 git status  
@@ -104,17 +95,34 @@ git add
 git commit  
 \```  
 
+aka
+
+Some basic Git commands are:
+```  
+git status  
+git add  
+git commit  
+```  
+
 To display triple backticks in a fenced code block, wrap them inside quadruple backticks.
 
 ### Syntax Highlighting
 
 Given its own section for visibility.
 
-You can add an optional language identifier to enable syntax highlighting in your fenced code block.
+You can add an optional language identifier to enable syntax highlighting in your fenced code block:
+
 ```ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
+```
+
+\```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+\```
 
 ### Lists
 
