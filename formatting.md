@@ -22,9 +22,11 @@ Below: 1 Dash (-) 2 Dashes (--) 3 Dashes (---) 3 Underscores (___)
 --
 ---
 ___
-
+##### Character Escaping
 To escape a character type (\\) before the Markdown characher(s)  
 For instance: Typing '\\-' will display '\-'
+
+##### Linebreak
 
 For a linebreak type two spaces at the end of your line,  
 and press enter.
