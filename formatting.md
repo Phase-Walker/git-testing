@@ -18,7 +18,7 @@ For instance: Typing '\\-' will display '\-'
 ### Linebreak
 
 For a linebreak type two spaces at the end of your line,  
-and press enter. (you don't have to press enter if you already did before.)
+and press enter. (you don't have to press enter if the content already continues on the next line.)
 
 ### Text Styling
 \*\*Bold** or \_\_Bold__ --> **Bold** or __Bold__  
