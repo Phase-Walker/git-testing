@@ -76,6 +76,7 @@ Then, wrap the link for the image in parentheses ().
 ### Exercepting
 
 You can call out code or a command within a sentence with single backticks. The text within the backticks will not be formatted.  
+  
 So the line:  
 *Use \`git status\` to list all new or modified files that haven't yet been committed.*  
 becomes:  
