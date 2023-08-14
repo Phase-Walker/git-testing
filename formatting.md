@@ -112,17 +112,19 @@ Given its own section for visibility.
 
 You can add an optional language identifier to enable syntax highlighting in your fenced code block:
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
-
 \```ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 \```
+
+aka
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
 
 ### Lists
 
