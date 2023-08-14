@@ -11,7 +11,7 @@ Next one changes to grey.
 ###### A sixth-level heading.
 Last Heading Level
 
-### miscellaneous
+### Miscellaneous
 
 Putting a dash under
 a block of text
