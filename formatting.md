@@ -11,24 +11,11 @@ Next one changes to grey.
 ###### A sixth-level heading.
 Last Heading Level
 
-### Miscellaneous
-
-Putting a dash under
-a block of text
-will turn it into an underlined heading.
--
-
-Below: 1 Dash (-) 2 Dashes (--) 3 Dashes (---) 3 Underscores (___)
-
--
---
----
-___
-##### Character Escaping
+### Character Escaping
 To escape a character type (\\) before the Markdown characher(s)  
 For instance: Typing '\\-' will display '\-'
 
-##### Linebreak
+### Linebreak
 
 For a linebreak type two spaces at the end of your line,  
 and press enter.
@@ -106,3 +93,17 @@ If a task list item description begins with a parenthesis, you'll need to escape
 
 For more advanced functionalities refer to:  
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+### Miscellaneous
+
+Putting a dash under
+a block of text
+will turn it into an underlined heading.
+-
+
+Below: 1 Dash (-) 2 Dashes (--) 3 Dashes (---) 3 Underscores (___)
+
+-
+--
+---
+___
