@@ -96,10 +96,6 @@ Nested Lists: https://docs.github.com/en/get-started/writing-on-github/getting-s
 
 To create a task list, preface list items with a hyphen and space followed by \[ ]. To mark a task as complete, use \[x].
 
-- \[x] #739
-- \[ ] https://github.com/octo-org/octo-repo/issues/740
-- \[ ] Add delight to the experience when all tasks are complete :tada:
-
 If a task list item description begins with a parenthesis, you'll need to escape it (the description) with \
 
 Demo:
