@@ -11,6 +11,8 @@ Next one changes to grey.
 ###### A sixth-level heading.
 Last Heading Level
 
+### miscellaneous
+
 Putting a dash under
 a block of text
 will turn it into an underlined heading.
