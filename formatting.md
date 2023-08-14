@@ -12,13 +12,13 @@ Next one changes to grey.
 Last Heading Level
 
 ### Character Escaping
-To escape a character type (\\) before the Markdown characher(s)  
+To escape a character type (\\) before the Markdown character(s)  
 For instance: Typing '\\-' will display '\-'
 
 ### Linebreak
 
 For a linebreak type two spaces at the end of your line,  
-and press enter. (you don't have to press enter if you already did prior.)
+and press enter. (you don't have to press enter if you already did before.)
 
 ### Text Styling
 \*\*Bold** or \_\_Bold__ --> **Bold** or __Bold__  
