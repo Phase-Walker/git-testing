@@ -75,12 +75,46 @@ Then, wrap the link for the image in parentheses ().
 
 ### Exercepting
 
+##### Inline
+
 You can call out code or a command within a sentence with single backticks. The text within the backticks will not be formatted.  
   
 So the line:  
 *Use* `git status` *to list all new or modified files that haven't yet been committed.*  
 becomes:  
 *Use* `git status` *to list all new or modified files that haven't yet been committed.*
+
+##### Block
+
+To format code or text into its own distinct block, use triple backticks.
+
+Some basic Git commands are:
+```  
+git status  
+git add  
+git commit  
+```  
+
+aka
+
+Some basic Git commands are:  
+\```  
+git status  
+git add  
+git commit  
+\```  
+
+To display triple backticks in a fenced code block, wrap them inside quadruple backticks.
+
+### Syntax Highlighting
+
+Given its own section for visibility.
+
+You can add an optional language identifier to enable syntax highlighting in your fenced code block.
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
 
 ### Lists
 
